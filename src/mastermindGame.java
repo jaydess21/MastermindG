@@ -1,6 +1,6 @@
 
 /**
- * @author Sahara Aracki-Maurer, Grace Hechavarria, and Jayde Shaw
+ * @author Sahara A, Grace H, and Jayde Shaw
  * 
  * MastermindGame.java
  * 
